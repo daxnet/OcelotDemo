@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "OcelotDemo.Gateway": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "weather",
+      "applicationUrl": "http://localhost:9999",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
